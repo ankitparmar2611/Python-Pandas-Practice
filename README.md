@@ -1,2 +1,2 @@
 # Python-Pandas-Practice
-A hands-on Pandas project for cleaning and preparing house prices dataset: handling missing values, filtering invalid data, and structuring data for analysis or ML.
+Hands-on exercises in Python Pandas including Series, DataFrames, indexing, selection, and commonly used functions for data handling and analysis.
